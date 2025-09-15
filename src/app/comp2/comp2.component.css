@@ -1,0 +1,21 @@
+.comp2-component, .comp1-component, .app-component {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+}
+
+button {
+    background-color: gray;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: darkblue;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 200px;
+    height: 30px;
+}
